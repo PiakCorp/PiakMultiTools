@@ -3,5 +3,5 @@
   <img src="Img/VERSION.png">
   <img src="Img/TYPE.png">
 </p>
-<img align="center" src="Img/RedTiger.png" width="99999px">
+<img align="center" src="Img/MAIN.png" width="99999px">
 </p>
