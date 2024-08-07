@@ -3,7 +3,8 @@
   <img src="Img/VERSION.png">
   <img src="Img/TYPE.png">
 </p>
-<img align="center" src="Img/main.png" width="99999px">
+<img align="center" src="Img/PAGE1.PNG" width="99999px"><br>
+<img align="center" src="Img/PAGE2.PNG" width="99999px">
 </p>
 <h2>🔗・Informations:</h2>
 <p>
