@@ -8,7 +8,7 @@
 <h2>🔗・Informations:</h2>
 <p>
 </p>
-- Code: Obfuscate
+- Code: Obfuscate<br>
 - <a href="https://www.virustotal.com/gui/home/upload">VirusTotal</a><br>
 <h2>🔗・Credits:</h2>
 <p>
