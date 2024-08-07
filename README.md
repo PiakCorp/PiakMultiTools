@@ -5,6 +5,11 @@
 </p>
 <img align="center" src="Img/main.png" width="99999px">
 </p>
+<h2>🔗・Informations:</h2>
+<p>
+</p>
+- Code: Obfuscate
+- <a href="https://www.virustotal.com/gui/home/upload">VirusTotal</a><br>
 <h2>🔗・Credits:</h2>
 <p>
 - <a href="https://discord.gg/wVUMsHAHeJ">Discord</a><br>
